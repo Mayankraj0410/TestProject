@@ -17,7 +17,7 @@ public class Main {
     public static void main(String[] args) {
 
         Main m = new Main();
-        m.setName("hey hello");
+        m.setName("Mayank");
         System.out.println(m.getName());
     }
 }
